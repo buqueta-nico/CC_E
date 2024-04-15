@@ -9,6 +9,11 @@
   "StartTime": 1713191056,
   "GameModeActivated":false
 },
+"TEX":{
+  "EventName": "The Examination",
+  "StartTime": 1713192136,
+  "GameModeActivated":false
+},
 "TO":{
       "EventName": "The Owner",
       "StartTime": 1705172400,
