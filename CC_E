@@ -1,0 +1,17 @@
+{
+"BV3":{
+  "EventName": "The bday funy",
+  "StartTime": 1703380800,
+  "GameModeActivated":false
+},
+"TA":{
+  "EventName": "The Aliens",
+  "StartTime": 1713136200,
+  "GameModeActivated":true
+},
+"TO":{
+      "EventName": "The Owner",
+      "StartTime": 1705172400,
+      "GameModeActivated":false
+    }
+}
