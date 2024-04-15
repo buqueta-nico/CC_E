@@ -7,7 +7,7 @@
 "TA":{
   "EventName": "The Aliens",
   "StartTime": 1713191056,
-  "GameModeActivated":true
+  "GameModeActivated":false
 },
 "TO":{
       "EventName": "The Owner",
