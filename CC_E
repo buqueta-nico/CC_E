@@ -14,6 +14,11 @@
   "StartTime": 1713193576,
   "GameModeActivated":false
 },
+"Introduction":{
+  "EventName": "Introduction",
+  "StartTime": 1703380800,
+  "GameModeActivated":false
+},
 "TO":{
       "EventName": "The Owner",
       "StartTime": 1705172400,
