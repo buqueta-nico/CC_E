@@ -21,11 +21,11 @@
       "UD3": "- The Alien colony has been revealed!",
       "UD4": "- AND MUCH MORE SECRETS!"
     }
-  }
+  },
 
-  "UpdateCTC":{
+ "Update":{
 
-    "Version": "Version: V2.9.2.55",
+     "Version": "Version: V2.9.2.55",
 
     "Update":{
       "UD1": "- Lobby revamp.",
@@ -34,4 +34,5 @@
       "UD4": "- In preparation for "The Introduction" event &&#H(s6sd6 has been added"
     }
   },
+
 }
