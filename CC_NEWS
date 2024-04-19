@@ -9,30 +9,5 @@
       "UD3": "",
       "UD4": ""
     }
-  },
-
-"Update2":{
-
-    "Version": "Version: V2.9.2.5",
-
-    "Update":{
-      "UD1": "- Version V2.9.2.5 has arrived!",
-      "UD2": "- New 4 @!¿?+* have been added as a build up for The Experiments!",
-      "UD3": "- The Alien colony has been revealed!",
-      "UD4": "- AND MUCH MORE SECRETS!"
-    }
-  },
-
- "UpdateCTC":{
-
-     "Version": "Version: V2.9.2.55",
-
-    "Update":{
-      "UD1": "- Lobby revamp.",
-      "UD2": "- Lobby music will be added next update.",
-      "UD3": "- Countdown To Catastrophe announced.",
-      "UD4": "- In preparation for 'The Introduction' event &&#H(s6sd6 has been added"
-    }
-  },
-
+  }
 }
