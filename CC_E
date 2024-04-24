@@ -18,8 +18,20 @@
     "EventName": "Introduction",
     "StartTime": 1713571411,
     "GameModeActivated": false,
-    "MiniEventSD": "year = 2024, month = 4, day = 24, hour = 18, min = 20, sec = 0",
-    "MiniEventED": "year = 2024, month = 4, day = 25, hour = 0, min = 0, sec = 0"
+    "MiniEventSD": {
+      "year": 2024,
+      "month": 4,
+      "day": 24,
+      "minutes": 40,
+      "seconds": 0
+    },
+    "MiniEventED": {
+      "year": 2024,
+      "month": 4,
+      "day": 25,
+      "minutes": 0,
+      "seconds": 0
+    }
   },
   "TO": {
     "EventName": "The Owner",
