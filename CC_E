@@ -34,7 +34,7 @@
       "minutes": 0,
       "seconds": 0
     },
-  "Between" 10
+    "Between": 10
   },
   "TO": {
     "EventName": "The Owner",
