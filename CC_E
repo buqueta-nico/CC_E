@@ -35,7 +35,8 @@
       "seconds": 0
     },
     "Phase": 1,
-    "Between": 10
+    "Between": 10,
+    "Power": 1
   },
   "TO": {
     "EventName": "The Owner",
