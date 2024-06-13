@@ -4,14 +4,14 @@
     "StartTime": 1703380800,
     "GameModeActivated": false
   },
-  "TA": {
-    "EventName": "The Aliens",
-    "StartTime": 1713281447,
+  "TFW": {
+    "EventName": "The Final Warning",
+    "StartTime": 1718909186,
     "GameModeActivated": false
   },
-  "TEX": {
-    "EventName": "The Examination",
-    "StartTime": 1713193576,
+  "TID": {
+    "EventName": "The Imminent Disaster",
+    "StartTime": 1718909186,
     "GameModeActivated": false
   },
   "Introduction": {
