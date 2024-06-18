@@ -1,0 +1,46 @@
+{
+    "BV3": {
+      "EventName": "The bday funy",
+      "StartTime": 1703380800,
+      "GameModeActivated": false
+    },
+    "TFW": {
+      "EventName": "The Final Warning",
+      "StartTime": 1718909186,
+      "GameModeActivated": false
+    },
+    "TID": {
+      "EventName": "The Imminent Disaster",
+      "StartTime": 1718909186,
+      "GameModeActivated": false
+    },
+    "Introduction": {
+      "EventName": "Introduction",
+      "StartTime": 1715636376,
+      "GameModeActivated": false,
+      "MiniEventSD": {
+        "year": 2024,
+        "month": 4,
+        "day": 25,
+        "hour": 0,
+        "minutes": 38,
+        "seconds": 0
+      },
+      "MiniEventED": {
+        "year": 2024,
+        "month": 4,
+        "day": 26,
+        "hour": 0,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "Phase": 1,
+      "Between": 10,
+      "Power": 1
+    },
+    "TO": {
+      "EventName": "The Owner",
+      "StartTime": 1705172400,
+      "GameModeActivated": false
+    }
+  }
