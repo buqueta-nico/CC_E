@@ -1,13 +1,13 @@
 {
   "Update":{
 
-    "Version": "Version: V2.9.2.55",
+    "Version": "Version: V2.9.3",
 
     "Update":{
-      "UD1": "- The base has been destroyed." ,
-      "UD2": "- Spawns are now all over the map!",
-      "UD3": "- The Final Warning countdown added.",
-      "UD4": "- Live event taking place on July 27th 3 PM ET!"
+      "UD1": "- CTC has concluded." ,
+      "UD2": "- All event files have been removed.",
+      "UD3": "TP button has been re-added.",
+      "UD4": "Nico is having a break, he'll be back soon!"
     }
   }
 }
