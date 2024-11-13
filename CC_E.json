@@ -60,6 +60,7 @@
   "TO": {
     "EventName": "The Owner",
     "StartTime": 1705172400,
-    "GameModeActivated": false
+    "GameModeActivated": false,
+    "GlitchIn": 399
   }
 }
